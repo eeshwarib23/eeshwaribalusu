@@ -22,8 +22,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=eeshwaribalusu&label=Profile%20views&color=0e75b6&style=flat" alt="eeshwaribalusu" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/eeshwaribalusu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eeshwaribalusu" height="20" width="20" />
   </a>
 </p>
 
