@@ -27,7 +27,7 @@
 
 
   
-👩🏻‍💻 I studied Computer Science at Southern Arkansas University, USA.
+👩🏻‍💻 Masters in Computer Science Grad.
 
 🎨 I'm currently crafting a blog on Data Science,Quantitative Analytics of  E2E projects and productivity on my [Wordpress site](https://eeshwaribalusu.wordpress.com/).
 
