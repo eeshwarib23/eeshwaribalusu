@@ -2,7 +2,7 @@
 <p align="center">
 <p align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Engineer;Passionate%20about%20Data%20Science%20and%20Quantitative%20Analytics;Creating%20insights%20through%20data&font=Fira%20Code&center=true&width=900&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Passionate%20about%20Data%20Science%20and%20Quantitative%20Analytics;Creating%20insights%20through%20data&font=Fira%20Code&center=true&width=900&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </p>
 
 
