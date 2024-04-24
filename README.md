@@ -24,8 +24,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
-👩🏻‍💻 I’m currently working as **Software Engineer- Data and Gen AI** \
-💭 I'm immersed in Data Science, Quantitative Finance, and Visualizing Insights. Let's explore these exciting realms together! \
+
+👩🏻‍💻 I’m currently working as **Software Engineer- Data and Gen AI**  \
+💭 I'm immersed in Data Science, Quantitative Finance, and Visualizing Insights. Let's explore these exciting realms together!  \
 🤝 Interested in working with me/ collaborating on Projects ? Reach out at [email](balusueeshwari@gmail.com) 
 <!-- 🎨 I'm crafting a blog on Data Science,Quantitative Analytics and productivity on [Wordpress site](https://eeshwaribalusu.wordpress.com/) \ -->
 <!--## My Stats ![EeshwariBalusu GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshwaribalusu&hide=contribs,issues&show_icons=true&theme=radical) -->
