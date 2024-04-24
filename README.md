@@ -10,28 +10,25 @@
 
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://linkedin.com/in/eeshwaribalusu"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://eeshwaribalusu.wordpress.com/"><img alt="WordPress" title="WordPress Blog" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
   <a href="https://github.com/eeshwaribalusu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/eeshwaribalusu?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/eeshwaribalusu"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/eeshwaribalusu?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
- </p>
+ </p> -->
 
   
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=eeshwaribalusu&label=Profile%20views&color=0e75b6&style=flat" alt="eeshwaribalusu" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
-
 👩🏻‍💻 I’m currently working as **Software Engineer- Data and Gen AI** \
-<!-- 🎨 I'm crafting a blog on Data Science,Quantitative Analytics and productivity on [Wordpress site](https://eeshwaribalusu.wordpress.com/) \ -->
 💭 I'm immersed in Data Science, Quantitative Finance, and Visualizing Insights. Let's explore these exciting realms together! \
 🤝 Interested in working with me/ collaborating on Projects ? Reach out at [email](balusueeshwari@gmail.com) 
-
-<!--## My Stats
-![EeshwariBalusu GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshwaribalusu&hide=contribs,issues&show_icons=true&theme=radical) -->
+<!-- 🎨 I'm crafting a blog on Data Science,Quantitative Analytics and productivity on [Wordpress site](https://eeshwaribalusu.wordpress.com/) \ -->
+<!--## My Stats ![EeshwariBalusu GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshwaribalusu&hide=contribs,issues&show_icons=true&theme=radical) -->
 
 ## 🧰 Languages and Tools:
 
