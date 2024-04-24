@@ -2,7 +2,7 @@
 <p align="center">
 <p align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Passionate%20about%20Data%20Science%20and%20Quantitative%20Analytics;Creating%20insights%20through%20data&font=Fira%20Code&center=true&width=900&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
+<!--  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Passionate%20about%20Data%20Science%20and%20Quantitative%20Analytics;Creating%20insights%20through%20data&font=Fira%20Code&center=true&width=900&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /> -->
 </p>
 
 
@@ -25,13 +25,13 @@
   </a>
 </p>
 
-👩🏻‍💻 I’m currently working on **Prompt engineering** \
-🎨 I'm crafting a blog on Data Science,Quantitative Analytics and productivity on [Wordpress site](https://eeshwaribalusu.wordpress.com/) \
-💭 I'm immersed in Data, Data Science, Quantitative Finance, and Visualizing Insights. Let's explore these exciting realms together! \
+👩🏻‍💻 I’m currently working as **Software Engineer- Data and Gen AI** \
+<!-- 🎨 I'm crafting a blog on Data Science,Quantitative Analytics and productivity on [Wordpress site](https://eeshwaribalusu.wordpress.com/) \ -->
+💭 I'm immersed in Data Science, Quantitative Finance, and Visualizing Insights. Let's explore these exciting realms together! \
 🤝 Interested in working with me/ collaborating on Projects ? Reach out at [email](balusueeshwari@gmail.com) 
 
-## My Stats
-![EeshwariBalusu GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshwaribalusu&hide=contribs,issues&show_icons=true&theme=radical)
+<!--## My Stats
+![EeshwariBalusu GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshwaribalusu&hide=contribs,issues&show_icons=true&theme=radical) -->
 
 ## 🧰 Languages and Tools:
 
