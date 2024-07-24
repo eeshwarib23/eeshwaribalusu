@@ -25,9 +25,9 @@
   </a>
 </p>
 
-👩🏻‍💻 I’m currently working as **Software Engineer- Data and Gen AI**  \
-💭 I'm immersed in Data Science, Quantitative Finance, and Visualizing Insights. Let's explore these exciting realms together!  \
-🤝 Interested in working with me/ collaborating on Projects ? Reach out at [email](balusueeshwari@gmail.com) 
+👩🏻‍💻 I’m currently working with HiCounselor on AI tool development  \
+💭 I'm immersed in Data Analytics, Data Engineering, and Visualizing Insights. Let's explore these exciting realms together!  \
+🤝 Interested in working with me/ collaborating on Projects ?
 <!-- 🎨 I'm crafting a blog on Data Science,Quantitative Analytics and productivity on [Wordpress site](https://eeshwaribalusu.wordpress.com/) \ -->
 <!--## My Stats ![EeshwariBalusu GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshwaribalusu&hide=contribs,issues&show_icons=true&theme=radical) -->
 
@@ -52,7 +52,6 @@
 	<code><img title="GraphQL"  width="25" height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 	<code><img title="Node.js"  width="25" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 	<code><img title="C++"  width="25" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-	<code><img title="Firebase"  width="25" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 </p>
 <p align="center">
 	<img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="30" style="vertical-align:down; margin:4px"/>
