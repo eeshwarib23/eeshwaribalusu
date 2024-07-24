@@ -27,7 +27,7 @@
 
 👩🏻‍💻 I’m currently working with HiCounselor on AI tool development  \
 💭 I'm immersed in Data Analytics, Data Engineering, and Visualizing Insights. Let's explore these exciting realms together!  \
-🤝 Interested in working with me/ collaborating on Projects ?
+
 <!-- 🎨 I'm crafting a blog on Data Science,Quantitative Analytics and productivity on [Wordpress site](https://eeshwaribalusu.wordpress.com/) \ -->
 <!--## My Stats ![EeshwariBalusu GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshwaribalusu&hide=contribs,issues&show_icons=true&theme=radical) -->
 
