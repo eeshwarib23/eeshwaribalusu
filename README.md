@@ -5,10 +5,15 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=eeshwaribalusu&label=Profile%20views&color=0e75b6&style=flat" alt="eeshwaribalusu" /> 
 </p>
-👩🏻‍💻 Currently at HiCounselor, I’m focused on AI tool development, prompt engineering using Python, NLP, and front-end technologies. I'm deeply involved in Software Engineering and Data, constantly exploring new ways to build and innovate.
-💭 Passionate about both Software Engineering and Data Science, I aim to merge these worlds to create impactful solutions. Let's explore these exciting realms together!
-🎨 In my spare time, I'm crafting a blog titled "The Data Quantist," where I share my learnings and insights from the tech world.
-
+<p>
+  👩🏻‍💻 Currently at HiCounselor, I’m focused on AI tool development, prompt engineering using Python, NLP, and front-end technologies. I'm deeply involved in Software Engineering and Data, constantly exploring new ways to build and innovate.
+</p>
+<p>
+  💭 Passionate about both Software Engineering and Data Science, I aim to merge these worlds to create impactful solutions. Let's explore these exciting realms together!
+</p>
+<p>
+  🎨 In my spare time, I'm crafting a blog titled "The Data Quantist," where I share my learnings and insights from the tech world.
+</p>
 <!-- 🎨 I'm crafting a blog on Data Science,Quantitative Analytics and productivity on [Wordpress site](https://eeshwaribalusu.wordpress.com/) \ -->
 <!--## My Stats ![EeshwariBalusu GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshwaribalusu&hide=contribs,issues&show_icons=true&theme=radical) -->
 
