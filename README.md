@@ -1,32 +1,13 @@
-### <p align="center"> Hi there! 👋 I'm Eeshwari, sharing my tech journey and learnings.</p>
+<p align="center"> Hi there! 👋 I'm Eeshwari, sharing my journey in Software Engineering and Data.</p>
 <p align="center">
-<p align="center">
-  <p align="center">
-<!--  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Passionate%20about%20Data%20Science%20and%20Quantitative%20Analytics;Creating%20insights%20through%20data&font=Fira%20Code&center=true&width=900&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /> -->
+  <!--  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Data%20Enthusiast;Building%20solutions%20with%20code%20and%20data&font=Fira%20Code&center=true&width=900&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /> -->
 </p>
-
-
-</p>
-
-</p>
-
-<!--<p align="center">
-  <a href="https://linkedin.com/in/eeshwaribalusu"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://eeshwaribalusu.wordpress.com/"><img alt="WordPress" title="WordPress Blog" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-  <a href="https://github.com/eeshwaribalusu?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/eeshwaribalusu?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/eeshwaribalusu"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/eeshwaribalusu?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
- </p> -->
-
-  
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=eeshwaribalusu&label=Profile%20views&color=0e75b6&style=flat" alt="eeshwaribalusu" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
 </p>
-
-👩🏻‍💻 I’m currently working with HiCounselor on AI tool development  \
-💭 I'm immersed in Data Analytics, Data Engineering, and Visualizing Insights. Let's explore these exciting realms together!  \
+👩🏻‍💻 Currently at HiCounselor, I’m focused on AI tool development, prompt engineering using Python, NLP, and front-end technologies. I'm deeply involved in Software Engineering and Data, constantly exploring new ways to build and innovate.
+💭 Passionate about both Software Engineering and Data Science, I aim to merge these worlds to create impactful solutions. Let's explore these exciting realms together!
+🎨 In my spare time, I'm crafting a blog titled "The Data Quantist," where I share my learnings and insights from the tech world.
 
 <!-- 🎨 I'm crafting a blog on Data Science,Quantitative Analytics and productivity on [Wordpress site](https://eeshwaribalusu.wordpress.com/) \ -->
 <!--## My Stats ![EeshwariBalusu GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshwaribalusu&hide=contribs,issues&show_icons=true&theme=radical) -->
