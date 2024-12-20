@@ -9,10 +9,9 @@
   👩🏻‍💻 Currently at HiCounselor, I’m focused on AI tool development, prompt engineering using Python, NLP, and front-end technologies. I'm deeply involved in Software Engineering and Data, constantly exploring new ways to build and innovate.
 </p>
 <p>
-  💭 Passionate about both Software Engineering and Data Science, I aim to merge these worlds to create impactful solutions. Let's explore these exciting realms together!
+  💭 I thrive on continuous learning and building projects that explore the power of AI, data analytics, and software development. My portfolio showcases practical implementations of core concepts and cutting-edge tools. Whether it's crafting machine learning models, building user-friendly web applications, or creating visually compelling dashboards, I aim to deliver value at every step.
 </p>
 <p>
-  🎨 In my spare time, I'm crafting a blog titled "The Data Quantist," where I share my learnings and insights from the tech world.
 </p>
 <!-- 🎨 I'm crafting a blog on Data Science,Quantitative Analytics and productivity on [Wordpress site](https://eeshwaribalusu.wordpress.com/) \ -->
 <!--## My Stats ![EeshwariBalusu GitHub stats](https://github-readme-stats.vercel.app/api?username=eeshwaribalusu&hide=contribs,issues&show_icons=true&theme=radical) -->
