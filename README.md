@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=eeshwaribalusu&label=Profile%20views&color=0e75b6&style=flat" alt="eeshwaribalusu" /> 
 </p>
 <p>
-  👩🏻‍💻 Currently at HiCounselor, I’m focused on AI tool development, prompt engineering using Python, NLP, and front-end technologies. I'm deeply involved in Software Engineering and Data, constantly exploring new ways to build and innovate.
+  👩🏻‍💻 Currently at HiCounselor, I’m focused on AI tool development, prompt engineering using Python and full stack technologies. I'm deeply involved in Software Engineering and Data, constantly exploring new ways to build and innovate.
 </p>
 <p>
   💭 I thrive on continuous learning and building projects that explore the power of AI, data analytics, and software development. My portfolio showcases practical implementations of core concepts and cutting-edge tools. Whether it's crafting machine learning models, building user-friendly web applications, or creating visually compelling dashboards, I aim to deliver value at every step.
